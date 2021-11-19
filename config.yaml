@@ -1,7 +1,7 @@
-baseURL: https://kobecoleman.netlify.app
+baseURL: https://tommyantle.netlify.app/
 
 languageCode: en-us
-title: "Kobe's Site"
+title: "Tommy's Site"
 theme: "toha"
 
 # Manage languages
@@ -32,7 +32,7 @@ enableEmoji: true
 # Site parameters
 params:
   # GitHub repo URL and branch of your site
-  gitRepo: https://github.com/ColemanKobe/hugo-starter
+  gitRepo: https://github.com/antlet/tommy-site
   gitBranch: main
 
   # specify whether you want to write some blog posts or not

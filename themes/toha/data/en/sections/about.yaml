@@ -6,40 +6,37 @@ section:
   showOnNavbar: true # Boolean to determine if a link should be shown for this section on the navbar
   template: sections/about.html # allows you to point to a specific template.
 # your designation
-designation: Software Development Intern
+designation: Computer Science Student
 # your company information
 company:
-  name: Acutec Precision Aerospace Inc.
-  url: "https://acutecprecision.com"
+  name: Allegheny College
+  url: "https://allegheny.edu"
 # a summary about you
-summary: 'I am an undergraduate junior studying Computer Science. I had two internships so far, and I am looking to specialize in deep learning.'
+summary: 'I am a Junior at Allegheny College majoring in Computer Science.'
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
   - name: Email
     icon: "fas fa-envelope"
-    url: "kbclmn474@gmail.com"
+    url: "tommy.antle@gmail.com"
 
   - name: Github
     icon: "fab fa-github"
-    url: "https://github.com/ColemanKobe"
+    url: "https://github.com/antlet"
 
   - name: LinkedIn
     icon: "fab fa-linkedin"
-    url: "https://www.linkedin.com/in/kobe-coleman/"
+    url: "https://www.linkedin.com/in/thomas-antle/"
 
-resume: "files/Resume.pdf"
+resume: "files/resume.pdf"
 
 softSkills:
-  - name: Grit
-    percentage: 85
-    color: green
-  - name: Time Management
+  - name: Organization
     percentage: 90
+    color: green
+  - name: Problem-Solving
+    percentage: 85
     color: blue
-  - name: Conflict Resolution
+  - name: Team-playing
     percentage: 80
     color: pink
-  - name: Adaptability
-    percentage: 85
-    color: yellow
