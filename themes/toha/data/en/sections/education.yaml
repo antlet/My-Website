@@ -8,34 +8,34 @@ section:
 degrees:
   - name: Bachelor of Science in Computer Science
     icon: fa-laptop
-    timeframe: 2019-2023 [Expected]
+    timeframe: 2019-2022 [Expected]
     institution:
       name: Allegheny College
       url: https://allegheny.edu
     grade: #(optional)
       scale: CGPA
-      achieved: 3.9
+      achieved: 3.5
       outOf: 4
     takenCourses: #(optional)
       # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
       showGrades: true
       courses:
-        - name: Computational Expression
+        - name: x
           achieved: 4
           outOf: 4
-        - name: Data Abstraction
+        - name: x
           achieved: 4
           outOf: 4
-        - name: Discrete Structures
+        - name: x
           achieved: 4
           outOf: 4
-        - name: Programming Languages
+        - name: x
           achieved: 4
           outOf: 4
-        - name: Data Analytics
+        - name: x
           achieved: 4
           outOf: 4
-        - name: Algorithm Analysis
+        - name: x
           achieved: 4
           outOf: 4
     extracurricularActivities:

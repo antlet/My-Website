@@ -6,38 +6,38 @@ section:
   showOnNavbar: true
 experiences:
   - company:
-      name: Computer Science Department, Allegheny College
-      location: Meadville, PA
-      overview: Allegheny College is a liberal arts institution that has a Computer Science department.
+      name: Company name here
+      url: URL here
+      location: Location here
+      overview: Overview of company here
     positions:
-    - designation: Technical Leader
-      start: Sep 2021
+    - designation: Role here
+      start: Start date here
       responsibilities:
-      - Assist 10-15 students weekly in successfully completing class activities and assignments
-      - Hold weekly office hours to support students’ academic progress in introductory and intermediate computer science courses
-      - Attend meetings to receive performance feedback and provide updates
+      - Responsibility here
+      - Responsibility here
+      - Responsibility here
   - company:
-      name: Acutec Precision Aerospace, Inc.
-      url: https://acutecprecision.com
-      location: Meadville, PA
-      overview: Acutec is a company that manufactures parts for rotors, engines, and hydraulics systems.
+      name: Company name here
+      url: URL here
+      location: Location here
+      overview: Overview of company here
     positions:
-    - designation: Software Development Intern
-      start: Sep 2021
+    - designation: Role here
+      start: Start date here
       responsibilities:
-      - Create library that manages work instructions for aerospace products.
-      - Implement automated testing for the library
-      - Communicate with supervisors to gather requirements
+      - Responsibility here
+      - Responsibility here
+      - Responsibility here
   - company:
-      name: NetApp
-      url: https://www.netapp.com
-      location: Pittsburgh, PA
-      overview: NetApp is a company that specializes in cloud data storage.
+      name: Company name here
+      url: URL here
+      location: Location here
+      overview: Overview of company here
     positions:
-    - designation: Capstone Project Intern
-      start: Jan 2021
-      end: May 2021
+    - designation: Role here
+      start: Start date here
       responsibilities:
-      - Implemented a data search and query features in a React JS application
-      - Enhanced a user interface to make it more user-friendly
-      - Worked in an Agile environment through weekly scrum meetings
+      - Responsibility here
+      - Responsibility here
+      - Responsibility here
