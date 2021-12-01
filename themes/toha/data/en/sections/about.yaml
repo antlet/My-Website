@@ -33,10 +33,10 @@ resume: "files/resume.pdf"
 softSkills:
   - name: Organization
     percentage: 90
-    color: green
+    color: blue
   - name: Problem-Solving
     percentage: 85
-    color: blue
+    color: yellow
   - name: Team-playing
-    percentage: 80
-    color: pink
+    percentage: 85
+    color: green

@@ -18,24 +18,39 @@ degrees:
       outOf: 4
     takenCourses: #(optional)
       # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-      showGrades: true
+      showGrades: false
       courses:
-        - name: x
+        - name: Computational Expression
           achieved: 4
           outOf: 4
-        - name: x
+        - name: Data Abstraction
           achieved: 4
           outOf: 4
-        - name: x
+        - name: Discrete Structures
           achieved: 4
           outOf: 4
-        - name: x
+        - name: Programming Languages
           achieved: 4
           outOf: 4
-        - name: x
+        - name: Algorithm Analysis
           achieved: 4
           outOf: 4
-        - name: x
+        - name: Software Engineering
+          achieved: 4
+          outOf: 4
+        - name: Bioinformatics
+          achieved: 4
+          outOf: 4
+        - name: Computer Organization
+          achieved: 4
+          outOf: 4
+        - name: Data Analytics
+          achieved: 4
+          outOf: 4
+        - name: Artificial Intelligence
+          achieved: 4
+          outOf: 4
+        - name: Software Innovation
           achieved: 4
           outOf: 4
     extracurricularActivities:

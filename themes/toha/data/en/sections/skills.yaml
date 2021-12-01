@@ -11,15 +11,15 @@ section:
 # Your Skills.
 
 skills:
-- name: Skill
-  logo: /images/sections/skills/git.png
+- name: Python
+  logo: /images/sections/skills/python.png
   summary: "Summary of skill here."
-- name: Skill
-  logo: /images/sections/skills/git.png
+- name: Java
+  logo: /images/sections/skills/java.png
   summary: "Summary of skill here."
-- name: Skill
-  logo: /images/sections/skills/git.png
+- name: C
+  logo: /images/sections/skills/c.png
   summary: "Summary of skill here."
-- name: Skill
+- name: Git
   logo: /images/sections/skills/git.png
   summary: "Summary of skill here."
