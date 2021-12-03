@@ -6,9 +6,9 @@ section:
   showOnNavbar: true
 
 achievements:
-  - title: x
-    image: images/sections/achievements/background.png
-    summary: Summary Here
-  - title: x
-    image: images/sections/achievements/background.png
-    summary: Summary here
+  - title: Trustee Scholarship
+    image: images/sections/achievements/allegheny4.png
+    summary: Awarded to students who have balanced academic excellence with other distinctive activities while in high school
+  - title: Alden Scholar
+    image: images/sections/achievements/allegheny4.png
+    summary: Allegheny College's equivalent of a Dean's List
