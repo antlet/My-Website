@@ -9,23 +9,23 @@ experiences:
       name: Allegheny College Computer Science Dept.
       url: https://www.cs.allegheny.edu
       location: Meadville, PA
-      overview: Overview of company here
+      overview: Department at Allegheny College that deals with Computer Science and it's students
     positions:
     - designation: Software Engineer
       start: October 2021
       responsibilities:
-      - Responsibility here
-      - Responsibility here
-      - Responsibility here
+      - Work in an agile workflow
+      - Complete weekly tasks
+      - Communicate about task progress and goals
   - company:
       name: Tommy's Auto Detailing
-      url: URL here
+      url: https://www.instagram.com/tommys_auto_detailing/
       location: Pittsburgh, PA
-      overview: Overview of company here
+      overview: Privately owned detailing business in the Pittsburgh area
     positions:
     - designation: Owner, Detailer
       start: September 2018
       responsibilities:
-      - Responsibility here
-      - Responsibility here
-      - Responsibility here
+      - Manage clients and cater to their expectations
+      - Regulate self-maintained resources
+      - Perform 8-20 hour services
