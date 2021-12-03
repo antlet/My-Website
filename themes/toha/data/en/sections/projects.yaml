@@ -13,7 +13,7 @@ projects:
     tags: ["Python", "spaCy", "Streamlit"]
   - name: GridGopher
     role: Contributor
-    timeline: "October 2021 - Current"
+    timeline: "October 2021 - Present"
     repo: https://github.com/noorbuchi/GridGopher
     summary: Plugin friendly tool that connects Google Sheets and GitHub
     tags: ["Python"]

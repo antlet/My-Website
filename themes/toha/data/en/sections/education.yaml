@@ -15,7 +15,7 @@ degrees:
     grade: #(optional)
       scale: CGPA
       achieved: 3.5
-      outOf: 4
+      outOf: 4.0
     takenCourses: #(optional)
       # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
       showGrades: false
@@ -53,7 +53,25 @@ degrees:
         - name: Software Innovation
           achieved: 4
           outOf: 4
-    extracurricularActivities:
-      - x
-      - x
-      - x
+  - name: One Year of Courses
+    icon: fa-laptop
+    timeframe: 2018-2019
+    institution:
+      name: University of Pittsburgh
+      url: https://www.pitt.edu
+    takenCourses: #(optional)
+      # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+      showGrades: false
+      courses:
+        - name: Analytic Geometry and Calculus
+          achieved: 4
+          outOf: 4
+        - name: Basic Physical Science and Engineering
+          achieved: 4
+          outOf: 4
+        - name: General Chemistry
+          achieved: 4
+          outOf: 4
+        - name: Intro to Engineering Analysis
+          achieved: 4
+          outOf: 4
