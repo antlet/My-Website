@@ -6,8 +6,8 @@
 
 Add about me
 
-[Website)(https://tommyantle.netlify.app)
+[Website](https://tommyantle.netlify.app)
 
-[Email]
+[Email](tommy.antle@gmail.com)
 
-[LinkedIn]
+[LinkedIn](https://www.linkedin.com/thomas-antle)
