@@ -10,4 +10,4 @@ Add about me
 
 Email: tommy.antle@gmail.com
 
-www.linkedin.com/in/thomas-antle
+[LinkedIn](https://www.linkedin.com/in/thomas-antle)
