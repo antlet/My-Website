@@ -8,6 +8,6 @@ Add about me
 
 [Website](https://tommyantle.netlify.app)
 
-[Email](tommy.antle@gmail.com)
+Email: tommy.antle@gmail.com
 
 [LinkedIn](https://www.linkedin.com/thomas-antle)
