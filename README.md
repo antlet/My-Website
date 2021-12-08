@@ -7,5 +7,7 @@
 Add about me
 
 [Website)(https://tommyantle.netlify.app)
+
 [Email]
+
 [LinkedIn]
