@@ -4,7 +4,7 @@
 
 ## About Me
 
-Add about me
+Welcome to my website! I am a student at Allegheny College majoring in Computer Science.
 
 Website: https://tommyantle.netlify.app
 
