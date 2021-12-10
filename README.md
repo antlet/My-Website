@@ -12,4 +12,5 @@ Email: tommy.antle@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/thomas-antle)
 
-[<img src="readme-icons/linkedin-2.png">](https://www.linkedin.com/in/thomas-antle)
+[<img src="readme-icons/website.png" alt="website" width="50"/>](https://tommyantle.netlify.app)
+[<img src="readme-icons/linkedin-2.png" alt="linkedin-2" width="50"/>](https://www.linkedin.com/in/thomas-antle)
