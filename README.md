@@ -9,4 +9,4 @@ Hello! My name is Thomas (or Tommy) Antle and I am a junior at Allegheny College
 Email: tommy.antle@gmail.com
 
 [<img src="readme-icons/website.png" alt="website" width="50"/>](https://tommyantle.netlify.app)
-[<img src="readme-icons/linkedin-2.png" alt="linkedin-2" width="50"/>](https://www.linkedin.com/in/thomas-antle)
+[<img src="readme-icons/linkedin.png" alt="linkedin" width="50"/>](https://www.linkedin.com/in/thomas-antle)
