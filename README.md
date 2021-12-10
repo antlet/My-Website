@@ -11,3 +11,5 @@ Website: https://tommyantle.netlify.app
 Email: tommy.antle@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/thomas-antle)
+
+[<img src="readme-icons/linkedin-2.png">](https://www.linkedin.com/in/thomas-antle)
