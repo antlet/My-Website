@@ -1,0 +1,20 @@
+---
+title: "Bridging the Gap Between the Known and Unknown"
+date: 2022-03-08T17:03:08-05:00
+description: Bridging the Gap Between the Known and Unknown
+menu:
+    sidebar:
+        name: Bridging the Gap
+        identifier: bridging the gap
+        parent: starter-posts
+        weight: 250
+draft: false
+---
+
+ The knowledge gap that emerges from the area of static Python code analysis has to do with choosing analyzers to leverage in the CI of programs. As more analyzing tools are created, researched and experimented with, there is more of a "need" to implement them in addition to the existing tools. There are many great tools with great abilities, but a new challenge arises when too many tools are implemented for analysis: too much expense. Too many or too big of tools being run can be too expensive in terms of time and memory usage. This is not optimal in continuous integration to test software. There is not a definite fix to this gap/problem, but it is possible to analyze and experiment with various analysis tools to yield conclusions about it.
+
+ My thought process for this gap began by learning about symbolic execution in [this](http://ceur-ws.org/Vol-2508/paper-gul.pdf) article. The article mentioned how it could greatly improve error detection where most other tools are lacking. It is said to be very powerful, but the downside is that it is very expensive. This made me think of the gap in a more generalized way. From the way the author discusses symbolic execution, it is an essential tool that is needed to detect a specific type of error in many instances. Knowing this and knowing that it is also very expensive, I thought that there must be a way to look at tool-choice in terms of efficiency. Following the topic of symbolic execution, I looked into it more for Python and found [this](https://www.google.com/books/edition/Dependable_Software_Systems_Engineering/rykxCgAAQBAJ?hl=en&gbpv=1&dq=symbolic+execution+python&pg=PA26&printsec=frontcover) article that discusses dynamic symbolic execution (it is dynamic because Python is a dynamic language) with a tool that was created to handle it. This article was beneficial because it shows the recognition of the type of analysis and the creation of an easy and efficient tool for it. It breaks down an expensive process so that it can be better understood and implemented into developers' CI models. Another article that was interesting can be found [here](https://ieeexplore.ieee.org/abstract/document/8812141). It discusses reproducible failures and fixes, including things like TRAVIS-CI in the discussion. A toolkit is mentioned that deals with these failures and fixes, but what I got out of this article was that there are limitations in regard to expense in error detection. Lastly, a good resource that shows the existence of this gap is the comprehensive list of static analysis tools on GitHub found [here](https://github.com/analysis-tools-dev/static-analysis). The sheer amount of tools that are listed here for every programming language proves that there are too many analyzers to use all of them. They are all at developers' disposal, but a select few must be chosen to ensure an ideal efficiency.
+
+ A research question that can help to fill the gap is: How can a developer determine which static analyzers to use and when to stop adding more, specifically in the Python language?
+
+To fill the knowledge gap that I have found, it is necessary to analyze analysis tools. I want to find out which analyzers offer the highest percentage of error detection in relation to each other as well as by themselves. I also want to find out how expensive various tools are. Identifying the main types of errors in Python programs will help to give me a list of which types of tools are necessary for any CI to be efficient and beneficial. From there, I can experiment to find out a good stopping point for adding tools based on the percentage of error detection and the expense. While static analysis is great, compilers also catch errors, so it can possibly be more efficient to skip static analysis steps in order to save time and memory when the compiler can do the job.

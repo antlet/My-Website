@@ -1,6 +1,6 @@
 ---
 title: "Exploring Peer-Reviewed Articles of the Literature"
-date: 2022-03-09T14:04:29-05:00
+date: 2022-03-16T14:04:29-05:00
 description: Exploring Peer-Reviewed Articles of the Literature
 menu:
     sidebar:
