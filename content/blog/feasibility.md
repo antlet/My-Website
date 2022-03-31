@@ -1,6 +1,6 @@
 ---
 title: "Feasibility: How *do-able* is my project?"
-date: 2022-03-31T14:04:29-05:00
+date: 2022-03-30T14:04:29-05:00
 description: Determining feasibility of my project
 menu:
     sidebar:
