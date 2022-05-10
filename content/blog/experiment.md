@@ -1,6 +1,6 @@
 ---
 title: "Experiment"
-date: 2022-05-09T14:04:29-05:00
+date: 2022-04-27T14:04:29-05:00
 description: My prototype experiment
 menu:
     sidebar:
