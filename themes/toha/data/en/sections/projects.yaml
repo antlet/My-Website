@@ -7,13 +7,25 @@ section:
 projects:
   - name: GatorMiner
     role: Contributor
-    timeline: "April 2021 - May 2021"
+    timeline: "April - May 2021"
     repo: https://github.com/Allegheny-Ethical-CS/GatorMiner
     summary: Automated text-mining tool to analyze markdown documents
     tags: ["Python", "spaCy", "Streamlit"]
-  - name: GridGopher
+  - name: SheetShuttle
     role: Contributor
-    timeline: "October 2021 - Present"
-    repo: https://github.com/noorbuchi/GridGopher
+    timeline: "October 2021 - May 2022"
+    repo: https://github.com/GatorEducator/SheetShuttle
     summary: Plugin friendly tool that connects Google Sheets and GitHub
+    tags: ["Python"]
+  - name: CASTanet
+    role: Contributor
+    timeline: "January - February 2022"
+    repo: https://github.com/cmpsc-481-s22-m1/CASTanet
+    summary: Iterative tool that uses CASTs to generate file metrics
+    tags: ["Python"]
+  - name: NamePy
+    role: Contributor
+    timeline: "April 2022 - Present"
+    repo: https://github.com/antlet/NamePy
+    summary: Linting tool that evaluates Python identifiers
     tags: ["Python"]
