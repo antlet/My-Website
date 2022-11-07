@@ -8,13 +8,13 @@ section:
 degrees:
   - name: Bachelor of Science in Computer Science
     icon: fa-laptop
-    timeframe: 2019-2022 [Expected]
+    timeframe: 2019-2022
     institution:
       name: Allegheny College
       url: https://allegheny.edu
     grade: #(optional)
       scale: CGPA
-      achieved: 3.6
+      achieved: 3.8
       outOf: 4.0
     takenCourses: #(optional)
       # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
