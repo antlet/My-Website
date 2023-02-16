@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Skills
+  name: Languages
   id: skills
   enable: true
   weight: 2
@@ -16,10 +16,28 @@ skills:
   summary: "Multiple years of experience and proficiency"
 - name: Java
   logo: /images/sections/skills/java.png
-  summary: "Multiple years of experience and proficiency"
+  # summary: "Multiple years of experience and proficiency"
 - name: C
   logo: /images/sections/skills/c.png
-  summary: "Newest language I have learned but developing proficiency"
-- name: Git
-  logo: /images/sections/skills/git.png
-  summary: "Multiple years of experience with GitHub contributions and GitHub flow "
+  # summary: "Newest language I have learned but developing proficiency"
+- name: Go
+  # logo: /images/sections/skills/python.png
+  summary: ""
+- name: R
+  # logo: /images/sections/skills/python.png
+  summary: ""
+- name: SQL
+  # logo: /images/sections/skills/python.png
+  summary: ""
+- name: HTML
+  # logo: /images/sections/skills/python.png
+  summary: ""
+- name: JavaScript
+  # logo: /images/sections/skills/python.png
+  summary: ""
+- name: CSS
+  # logo: /images/sections/skills/python.png
+  summary: ""
+# - name: Git
+#   logo: /images/sections/skills/git.png
+#   summary: "Multiple years of experience with GitHub contributions and GitHub flow "

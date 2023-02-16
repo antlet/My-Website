@@ -14,7 +14,7 @@ degrees:
       url: https://allegheny.edu
     grade: #(optional)
       scale: CGPA
-      achieved: 3.8
+      achieved: 3.6
       outOf: 4.0
     takenCourses: #(optional)
       # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
